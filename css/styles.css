@@ -1,0 +1,16 @@
+header {
+    text-align: center;
+}
+#search {
+width: 50%;
+height: 2rem;
+margin: 1.25rem;
+}
+
+#rowone, #rowtwo, #rowthree  {
+justify-content: center;
+display: grid;
+grid-template-columns: auto auto auto auto;
+grid-column-gap: 1.5rem;
+margin-bottom: 1rem;
+}
